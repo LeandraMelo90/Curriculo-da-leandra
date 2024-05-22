@@ -1,1 +1,74 @@
-hjyfjyfkugek
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meu Currículo</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 20px auto;
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    h1, h2, h3 {
+      color: #333;
+    }
+
+    p {
+      color: #666;
+    }
+
+    .section {
+      margin-bottom: 20px;
+    }
+
+    .section-title {
+      margin-bottom: 10px;
+    }
+
+    .section-content {
+      margin-left: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h1>Leandra Correia Dias</h1>
+    <p>E-mail: lelislulis2021@gmail.com| Telefone: (11) 99420-6846 </p>
+
+    <div class="section">
+      <h2 class="section-title">Resumo</h2>
+      <p class="section-content">Sou boa em design de sombracelhas.</p>
+
+    <div class="section">
+      <h2 class="section-title">Educação</h2>
+      <div class="section-content">
+        <h3>inbeleze, com uma profissional</h3>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2 class="section-title">Habilidades</h2>
+      <div class="section-content">
+        <ul>
+          <li>Sombracelha</li>
+          <li>Cilios</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
